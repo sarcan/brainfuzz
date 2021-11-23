@@ -1,0 +1,26 @@
+/* Color Variables */
+
+$beige: #F2E8CF;
+$offwhite: #F4F1DE;
+$orange: #E07A5F;
+$red: #A44A3F;
+$blue: #3D405B;
+$green: #81B29A;
+$darkgreen: #306E63;
+$yellow: #F2CC8F;
+$darkblue: #14213D;
+$grey: #3D405B;
+
+/* Breakpoints for responsive layout */
+$breakpoint-phone-small: 24rem;
+$breakpoint-phone: 45rem;
+$breakpoint-tablets: 65rem;
+$breakpoint-desktop: 89rem;
+
+/* Range Slider */
+$range-width: 100% /* !default */;
+$range-handle-size: 1.25rem /* 20px */ /* !default */;
+$range-track-color: $red /* !default */;
+$range-track-height: 0.6rem /* 10px */ /* !default */;
+$range-label-color: $green /* !default */;
+$range-label-width: 3rem /* 60px */ /* !default */;
